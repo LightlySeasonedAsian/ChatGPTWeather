@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  #search-form {
+    margin-top: 20px;
+  }
+  
+  #search-input {
+    font-size: 16px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #search-button {
+    font-size: 16px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  #display-area {
+    margin-top: 20px;
+  }
+  
